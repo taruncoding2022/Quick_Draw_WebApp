@@ -1,0 +1,43 @@
+body{
+
+    background-size:cover;
+}
+
+#Score{
+
+    font-size: 40px;
+    float:left;
+    font-family:'Edu TAS Beginner', cursive; 
+}
+
+#Timer{
+
+    font-size:40px;
+   
+   float:right;
+    font-family:'Edu TAS Beginner';
+}
+
+#Sketch{
+
+ color: rgba(199, 6, 248, 0.822);
+ font-size: 30px;
+ font:bold;
+ font-family:'Edu TAS Beginner';
+}
+
+#Confidence{
+
+    font-size: 30px;
+    margin-left: auto;
+    font-family:'Edu TAS Beginner'; 
+}
+
+#STBD{
+
+    font-size: 30px;
+    margin-left: auto;
+    font-family:'Edu TAS Beginner'; 
+}
+
+
